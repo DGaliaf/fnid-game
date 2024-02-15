@@ -1,1 +1,1 @@
-# tera-game
+# FNID-game
